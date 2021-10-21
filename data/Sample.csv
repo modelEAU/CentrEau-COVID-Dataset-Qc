@@ -1,0 +1,528 @@
+sampleID,siteID,instrumentID,reporterID,dateTime,dateTimeStart,dateTimeEnd,type,collection,preTreatment,pooled,children,parent,sizeL,index,fieldSampleTempC,shippedOnIce,storageTempC,qualityFlag,notes
+qc_01_cptp24h_rawww_2021-01-15_1,qc_01,,city_qc,,2021-01-14 00:00:00.000,2021-01-15 00:00:00.000,rawww,cptp24h,True,False,,,1.0,1,,True,4.0,True,"poor recovery, huge viral concentrations"
+qc_02_cptp24h_rawww_2021-01-15_1,qc_02,,city_qc,,2021-01-14 00:00:00.000,2021-01-15 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-16_1,qc_01,,city_qc,,2021-01-15 00:00:00.000,2021-01-16 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"poor recovery, huge viral concentrations"
+qc_02_cptp24h_rawww_2021-01-16_1,qc_02,,city_qc,,2021-01-15 00:00:00.000,2021-01-16 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-17_1,qc_01,,city_qc,,2021-01-16 00:00:00.000,2021-01-17 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"poor recovery, huge viral concentrations"
+qc_02_cptp24h_rawww_2021-01-17_1,qc_02,,city_qc,,2021-01-16 00:00:00.000,2021-01-17 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-18_1,qc_01,,city_qc,,2021-01-17 00:00:00.000,2021-01-18 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-18_1,qc_02,,city_qc,,2021-01-17 00:00:00.000,2021-01-18 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-19_1,qc_01,,city_qc,,2021-01-18 00:00:00.000,2021-01-19 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-19_1,qc_02,,city_qc,,2021-01-18 00:00:00.000,2021-01-19 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-20_1,qc_01,,city_qc,,2021-01-19 00:00:00.000,2021-01-20 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-20_1,qc_02,,city_qc,,2021-01-19 00:00:00.000,2021-01-20 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-21_1,qc_01,,city_qc,,2021-01-20 00:00:00.000,2021-01-21 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-21_1,qc_02,,city_qc,,2021-01-20 00:00:00.000,2021-01-21 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-22_1,qc_01,,city_qc,,2021-01-21 00:00:00.000,2021-01-22 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-22_1,qc_02,,city_qc,,2021-01-21 00:00:00.000,2021-01-22 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-23_1,qc_01,,city_qc,,2021-01-22 00:00:00.000,2021-01-23 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-23_1,qc_02,,city_qc,,2021-01-22 00:00:00.000,2021-01-23 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-24_1,qc_01,,city_qc,,2021-01-23 00:00:00.000,2021-01-24 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-24_1,qc_02,,city_qc,,2021-01-23 00:00:00.000,2021-01-24 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-25_1,qc_01,,city_qc,,2021-01-24 00:00:00.000,2021-01-25 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-25_1,qc_02,,city_qc,,2021-01-24 00:00:00.000,2021-01-25 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-26_1,qc_01,,city_qc,,2021-01-25 00:00:00.000,2021-01-26 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-26_1,qc_02,,city_qc,,2021-01-25 00:00:00.000,2021-01-26 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-27_1,qc_01,,city_qc,,2021-01-26 00:00:00.000,2021-01-27 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-27_1,qc_02,,city_qc,,2021-01-26 00:00:00.000,2021-01-27 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-28_1,qc_01,,city_qc,,2021-01-27 00:00:00.000,2021-01-28 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cptp24h_rawww_2021-01-28_1,qc_02,,city_qc,,2021-01-27 00:00:00.000,2021-01-28 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cptp24h_rawww_2021-01-29_1,qc_01,,city_qc,,2021-01-28 00:00:00.000,2021-01-29 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-29_1,qc_02,,city_qc,,2021-01-28 00:00:00.000,2021-01-29 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-30_1,qc_01,,city_qc,,2021-01-29 00:00:00.000,2021-01-30 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-30_1,qc_02,,city_qc,,2021-01-29 00:00:00.000,2021-01-30 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-01-31_1,qc_01,,city_qc,,2021-01-30 00:00:00.000,2021-01-31 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_02_cptp24h_rawww_2021-01-31_1,qc_02,,city_qc,,2021-01-30 00:00:00.000,2021-01-31 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,test samples
+qc_01_cptp24h_rawww_2021-02-01_1,qc_01,,city_qc,,2021-01-31 00:00:00.000,2021-02-01 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-01_1,qc_02,,city_qc,,2021-01-31 00:00:00.000,2021-02-01 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-02_1,qc_01,,city_qc,,2021-02-01 00:00:00.000,2021-02-02 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-02_1,qc_02,,city_qc,,2021-02-01 00:00:00.000,2021-02-02 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-03_1,qc_01,,city_qc,,2021-02-02 00:00:00.000,2021-02-03 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-03_1,qc_02,,city_qc,,2021-02-02 00:00:00.000,2021-02-03 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-04_1,qc_01,,city_qc,,2021-02-03 00:00:00.000,2021-02-04 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-04_1,qc_02,,city_qc,,2021-02-03 00:00:00.000,2021-02-04 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-05_1,qc_01,,city_qc,,2021-02-04 00:00:00.000,2021-02-05 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-05_1,qc_02,,city_qc,,2021-02-04 00:00:00.000,2021-02-05 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-06_1,qc_01,,city_qc,,2021-02-05 00:00:00.000,2021-02-06 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-06_1,qc_02,,city_qc,,2021-02-05 00:00:00.000,2021-02-06 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-07_1,qc_01,,city_qc,,2021-02-06 00:00:00.000,2021-02-07 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-07_1,qc_02,,city_qc,,2021-02-06 00:00:00.000,2021-02-07 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-08_1,qc_01,,city_qc,,2021-02-07 00:00:00.000,2021-02-08 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-08_1,qc_02,,city_qc,,2021-02-07 00:00:00.000,2021-02-08 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"brsv recovery erroneous, high pmmov -> unreliable sars/pmmov"
+qc_01_cptp24h_rawww_2021-02-09_1,qc_01,,city_qc,,2021-02-08 00:00:00.000,2021-02-09 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-09_1,qc_02,,city_qc,,2021-02-08 00:00:00.000,2021-02-09 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-02-10_1,qc_01,,city_qc,,2021-02-09 00:00:00.000,2021-02-10 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-10_1,qc_02,,city_qc,,2021-02-09 00:00:00.000,2021-02-10 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-02-11_1,qc_01,,city_qc,,2021-02-10 00:00:00.000,2021-02-11 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-11_1,qc_02,,city_qc,,2021-02-10 00:00:00.000,2021-02-11 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-02-12_1,qc_01,,city_qc,,2021-02-11 00:00:00.000,2021-02-12 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_02_cptp24h_rawww_2021-02-12_1,qc_02,,city_qc,,2021-02-11 00:00:00.000,2021-02-12 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_01_cptp24h_rawww_2021-02-13_1,qc_01,,city_qc,,2021-02-12 00:00:00.000,2021-02-13 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_02_cptp24h_rawww_2021-02-13_1,qc_02,,city_qc,,2021-02-12 00:00:00.000,2021-02-13 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_01_cptp24h_rawww_2021-02-14_1,qc_01,,city_qc,,2021-02-13 00:00:00.000,2021-02-14 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_02_cptp24h_rawww_2021-02-14_1,qc_02,,city_qc,,2021-02-13 00:00:00.000,2021-02-14 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,general extraction problem
+qc_01_cptp24h_rawww_2021-02-15_1,qc_01,,city_qc,,2021-02-14 00:00:00.000,2021-02-15 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-15_1,qc_02,,city_qc,,2021-02-14 00:00:00.000,2021-02-15 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,high sars -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-02-16_1,qc_01,,city_qc,,2021-02-15 00:00:00.000,2021-02-16 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-16_1,qc_02,,city_qc,,2021-02-15 00:00:00.000,2021-02-16 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-17_1,qc_01,,city_qc,,2021-02-16 00:00:00.000,2021-02-17 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-17_1,qc_02,,city_qc,,2021-02-16 00:00:00.000,2021-02-17 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-18_1,qc_01,,city_qc,,2021-02-17 00:00:00.000,2021-02-18 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-18_1,qc_02,,city_qc,,2021-02-17 00:00:00.000,2021-02-18 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-19_1,qc_01,,frigon_lab_allie,,2021-02-18 00:00:00.000,2021-02-19 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-19_1,qc_02,,frigon_lab_allie,,2021-02-18 00:00:00.000,2021-02-19 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-02-20_1,qc_01,,frigon_lab_allie,,2021-02-19 00:00:00.000,2021-02-20 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-20_1,qc_02,,frigon_lab_allie,,2021-02-19 00:00:00.000,2021-02-20 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"brsv recovery erroneous, low sars -> unreliable sars/pmmov"
+qc_01_cptp24h_rawww_2021-02-21_1,qc_01,,frigon_lab_allie,,2021-02-20 00:00:00.000,2021-02-21 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-02-21_1,qc_02,,frigon_lab_allie,,2021-02-20 00:00:00.000,2021-02-21 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"brsv recovery erroneous, low sars -> unreliable sars/pmmov"
+qc_01_cptp24h_rawww_2021-02-22_1,qc_01,,city_qc,,2021-02-21 00:00:00.000,2021-02-22 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-22_1,qc_02,,city_qc,,2021-02-21 00:00:00.000,2021-02-22 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-23_1,qc_01,,city_qc,,2021-02-22 00:00:00.000,2021-02-23 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-23_1,qc_02,,city_qc,,2021-02-22 00:00:00.000,2021-02-23 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-24_1,qc_01,,city_qc,,2021-02-23 00:00:00.000,2021-02-24 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-24_1,qc_02,,city_qc,,2021-02-23 00:00:00.000,2021-02-24 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-25_1,qc_01,,city_qc,,2021-02-24 00:00:00.000,2021-02-25 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-25_1,qc_02,,city_qc,,2021-02-24 00:00:00.000,2021-02-25 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-26_1,qc_01,,city_qc,,2021-02-25 00:00:00.000,2021-02-26 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-26_1,qc_02,,city_qc,,2021-02-25 00:00:00.000,2021-02-26 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-27_1,qc_01,,city_qc,,2021-02-26 00:00:00.000,2021-02-27 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-27_1,qc_02,,city_qc,,2021-02-26 00:00:00.000,2021-02-27 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-02-28_1,qc_01,,city_qc,,2021-02-27 00:00:00.000,2021-02-28 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-02-28_1,qc_02,,city_qc,,2021-02-27 00:00:00.000,2021-02-28 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-01_1,qc_01,,city_qc,,2021-02-28 00:00:00.000,2021-03-01 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmov erroneous - sars/pmmov erroneous
+qc_02_cptp24h_rawww_2021-03-01_1,qc_02,,city_qc,,2021-02-28 00:00:00.000,2021-03-01 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-02_1,qc_01,,city_qc,,2021-03-01 00:00:00.000,2021-03-02 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-02_1,qc_02,,city_qc,,2021-03-01 00:00:00.000,2021-03-02 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-03_1,qc_01,,city_qc,,2021-03-02 00:00:00.000,2021-03-03 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-03_1,qc_02,,city_qc,,2021-03-02 00:00:00.000,2021-03-03 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-04_1,qc_01,,city_qc,,2021-03-03 00:00:00.000,2021-03-04 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-04_1,qc_02,,city_qc,,2021-03-03 00:00:00.000,2021-03-04 00:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-05_1,qc_01,,city_qc,,2021-03-04 00:00:00.000,2021-03-05 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-05_1,qc_02,,city_qc,,2021-03-04 00:00:00.000,2021-03-05 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-06_1,qc_01,,city_qc,,2021-03-05 00:00:00.000,2021-03-06 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-06_1,qc_02,,city_qc,,2021-03-05 00:00:00.000,2021-03-06 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-07_1,qc_01,,city_qc,,2021-03-06 00:00:00.000,2021-03-07 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-07_1,qc_02,,city_qc,,2021-03-06 00:00:00.000,2021-03-07 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-08_1,qc_01,,city_qc,,2021-03-07 00:00:00.000,2021-03-08 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-03-08_1,qc_02,,city_qc,,2021-03-07 00:00:00.000,2021-03-08 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-03-09_1,qc_01,,city_qc,,2021-03-08 00:00:00.000,2021-03-09 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-03-09_1,qc_02,,city_qc,,2021-03-08 00:00:00.000,2021-03-09 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-03-10_1,qc_01,,city_qc,,2021-03-09 00:00:00.000,2021-03-10 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-03-10_1,qc_02,,city_qc,,2021-03-09 00:00:00.000,2021-03-10 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-03-11_1,qc_01,,city_qc,,2021-03-10 00:00:00.000,2021-03-11 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_02_cptp24h_rawww_2021-03-11_1,qc_02,,city_qc,,2021-03-10 00:00:00.000,2021-03-11 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,brsv recovery erroneous
+qc_01_cptp24h_rawww_2021-03-12_1,qc_01,,city_qc,,2021-03-11 00:00:00.000,2021-03-12 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low brsv recovery -> unreliable?
+qc_02_cptp24h_rawww_2021-03-12_1,qc_02,,city_qc,,2021-03-11 00:00:00.000,2021-03-12 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-13_1,qc_01,,city_qc,,2021-03-12 00:00:00.000,2021-03-13 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-13_1,qc_02,,city_qc,,2021-03-12 00:00:00.000,2021-03-13 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-14_1,qc_01,,city_qc,,2021-03-13 00:00:00.000,2021-03-14 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-14_1,qc_02,,city_qc,,2021-03-13 00:00:00.000,2021-03-14 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-15_1,qc_01,,city_qc,,2021-03-14 00:00:00.000,2021-03-15 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-15_1,qc_02,,city_qc,,2021-03-14 00:00:00.000,2021-03-15 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-16_1,qc_01,,city_qc,,2021-03-15 00:00:00.000,2021-03-16 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-16_1,qc_02,,city_qc,,2021-03-15 00:00:00.000,2021-03-16 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-17_1,qc_01,,city_qc,,2021-03-16 00:00:00.000,2021-03-17 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-17_1,qc_02,,city_qc,,2021-03-16 00:00:00.000,2021-03-17 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-18_1,qc_01,,city_qc,,2021-03-17 00:00:00.000,2021-03-18 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-18_1,qc_02,,city_qc,,2021-03-17 00:00:00.000,2021-03-18 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-19_1,qc_01,,city_qc,,2021-03-18 00:00:00.000,2021-03-19 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-19_1,qc_02,,city_qc,,2021-03-18 00:00:00.000,2021-03-19 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-20_1,qc_01,,city_qc,,2021-03-19 00:00:00.000,2021-03-20 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-20_1,qc_02,,city_qc,,2021-03-19 00:00:00.000,2021-03-20 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-21_1,qc_01,,city_qc,,2021-03-20 00:00:00.000,2021-03-21 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-21_1,qc_02,,city_qc,,2021-03-20 00:00:00.000,2021-03-21 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-22_1,qc_01,,city_qc,,2021-03-21 00:00:00.000,2021-03-22 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-22_1,qc_02,,city_qc,,2021-03-21 00:00:00.000,2021-03-22 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-23_1,qc_01,,city_qc,,2021-03-22 00:00:00.000,2021-03-23 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,"low brsv recovery, low pmmov, low sars -> unreliable sars/pmmov"
+qc_02_cptp24h_rawww_2021-03-23_1,qc_02,,city_qc,,2021-03-22 00:00:00.000,2021-03-23 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,general extraction problem
+qc_01_cptp24h_rawww_2021-03-24_1,qc_01,,city_qc,,2021-03-23 00:00:00.000,2021-03-24 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-24_1,qc_02,,city_qc,,2021-03-23 00:00:00.000,2021-03-24 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,"low pmmov, high sars -> unreliable sars/pmmov"
+qc_01_cptp24h_rawww_2021-03-25_1,qc_01,,city_qc,,2021-03-24 00:00:00.000,2021-03-25 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-25_1,qc_02,,city_qc,,2021-03-24 00:00:00.000,2021-03-25 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-26_1,qc_01,,city_qc,,2021-03-25 00:00:00.000,2021-03-26 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-26_1,qc_02,,city_qc,,2021-03-25 00:00:00.000,2021-03-26 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-27_1,qc_01,,city_qc,,2021-03-26 00:00:00.000,2021-03-27 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-27_1,qc_02,,city_qc,,2021-03-26 00:00:00.000,2021-03-27 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-28_1,qc_01,,city_qc,,2021-03-27 00:00:00.000,2021-03-28 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-28_1,qc_02,,city_qc,,2021-03-27 00:00:00.000,2021-03-28 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-29_1,qc_01,,city_qc,,2021-03-28 00:00:00.000,2021-03-29 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-29_1,qc_02,,city_qc,,2021-03-28 00:00:00.000,2021-03-29 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-30_1,qc_01,,city_qc,,2021-03-29 00:00:00.000,2021-03-30 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-30_1,qc_02,,city_qc,,2021-03-29 00:00:00.000,2021-03-30 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-03-31_1,qc_01,,city_qc,,2021-03-30 00:00:00.000,2021-03-31 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-03-31_1,qc_02,,city_qc,,2021-03-30 00:00:00.000,2021-03-31 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-01_1,qc_01,,city_qc,,2021-03-31 00:00:00.000,2021-04-01 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-01_1,qc_02,,city_qc,,2021-03-31 00:00:00.000,2021-04-01 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-02_1,qc_01,,city_qc,,2021-04-01 00:00:00.000,2021-04-02 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-02_1,qc_02,,city_qc,,2021-04-01 00:00:00.000,2021-04-02 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-03_1,qc_01,,city_qc,,2021-04-02 00:00:00.000,2021-04-03 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-03_1,qc_02,,city_qc,,2021-04-02 00:00:00.000,2021-04-03 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-04_1,qc_01,,city_qc,,2021-04-03 00:00:00.000,2021-04-04 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-04_1,qc_02,,city_qc,,2021-04-03 00:00:00.000,2021-04-04 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-05_1,qc_01,,city_qc,,2021-04-04 00:00:00.000,2021-04-05 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-05_1,qc_02,,city_qc,,2021-04-04 00:00:00.000,2021-04-05 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-06_1,qc_01,,city_qc,,2021-04-05 00:00:00.000,2021-04-06 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-06_1,qc_02,,city_qc,,2021-04-05 00:00:00.000,2021-04-06 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-07_1,qc_01,,city_qc,,2021-04-06 00:00:00.000,2021-04-07 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-07_1,qc_02,,city_qc,,2021-04-06 00:00:00.000,2021-04-07 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-08_1,qc_01,,city_qc,,2021-04-07 00:00:00.000,2021-04-08 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-08_1,qc_02,,city_qc,,2021-04-07 00:00:00.000,2021-04-08 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-09_1,qc_01,,city_qc,,2021-04-08 00:00:00.000,2021-04-09 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cptp24h_rawww_2021-04-09_1,qc_02,,city_qc,,2021-04-08 00:00:00.000,2021-04-09 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-10_1,qc_01,,city_qc,,2021-04-09 00:00:00.000,2021-04-10 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-10_1,qc_02,,city_qc,,2021-04-09 00:00:00.000,2021-04-10 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-11_1,qc_01,,city_qc,,2021-04-10 00:00:00.000,2021-04-11 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-11_1,qc_02,,city_qc,,2021-04-10 00:00:00.000,2021-04-11 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,general extraction problem
+qc_01_cptp24h_rawww_2021-04-12_1,qc_01,,city_qc,,2021-04-11 00:00:00.000,2021-04-12 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-12_1,qc_02,,city_qc,,2021-04-11 00:00:00.000,2021-04-12 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-13_1,qc_01,,city_qc,,2021-04-12 00:00:00.000,2021-04-13 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-13_1,qc_02,,city_qc,,2021-04-12 00:00:00.000,2021-04-13 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-14_1,qc_01,,city_qc,,2021-04-13 00:00:00.000,2021-04-14 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-14_1,qc_02,,city_qc,,2021-04-13 00:00:00.000,2021-04-14 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawwwww_2021-04-15_1,qc_01,,city_qc,,2021-04-14 00:00:00.000,2021-04-15 00:00:00.000,rawwwww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawwwww_2021-04-15_1,qc_02,,city_qc,,2021-04-14 00:00:00.000,2021-04-15 00:00:00.000,rawwwww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-16_1,qc_01,,city_qc,,2021-04-15 00:00:00.000,2021-04-16 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-16_1,qc_02,,city_qc,,2021-04-15 00:00:00.000,2021-04-16 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-17_1,qc_01,,city_qc,,2021-04-16 00:00:00.000,2021-04-17 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-17_1,qc_02,,city_qc,,2021-04-16 00:00:00.000,2021-04-17 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-18_1,qc_01,,city_qc,,2021-04-17 00:00:00.000,2021-04-18 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-18_1,qc_02,,city_qc,,2021-04-17 00:00:00.000,2021-04-18 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-19_1,qc_01,,city_qc,,2021-04-18 00:00:00.000,2021-04-19 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high pmmov -> uneriable sars/pmmov
+qc_02_cptp24h_rawww_2021-04-19_1,qc_02,,city_qc,,2021-04-18 00:00:00.000,2021-04-19 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,"high brsv recovery, high pmmov -> unreliable sars/pmmov"
+qc_01_cptp24h_rawww_2021-04-20_1,qc_01,,city_qc,,2021-04-19 00:00:00.000,2021-04-20 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-20_1,qc_02,,city_qc,,2021-04-19 00:00:00.000,2021-04-20 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-21_1,qc_01,,city_qc,,2021-04-20 00:00:00.000,2021-04-21 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-21_1,qc_02,,city_qc,,2021-04-20 00:00:00.000,2021-04-21 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high sars -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-22_1,qc_01,,city_qc,,2021-04-21 00:00:00.000,2021-04-22 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high pmmov -> uneriable sars/pmmov
+qc_02_cptp24h_rawww_2021-04-22_1,qc_02,,city_qc,,2021-04-21 00:00:00.000,2021-04-22 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,high pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-23_1,qc_01,,city_qc,,2021-04-22 00:00:00.000,2021-04-23 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-23_1,qc_02,,city_qc,,2021-04-22 00:00:00.000,2021-04-23 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-24_1,qc_01,,city_qc,,2021-04-23 00:00:00.000,2021-04-24 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-24_1,qc_02,,city_qc,,2021-04-23 00:00:00.000,2021-04-24 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-25_1,qc_01,,city_qc,,2021-04-24 00:00:00.000,2021-04-25 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-25_1,qc_02,,city_qc,,2021-04-24 00:00:00.000,2021-04-25 00:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-26_1,qc_01,,city_qc,,2021-04-25 22:00:00.000,2021-04-26 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-26_1,qc_02,,city_qc,,2021-04-25 22:00:00.000,2021-04-26 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-27_1,qc_01,,city_qc,,2021-04-26 22:00:00.000,2021-04-27 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-27_1,qc_02,,city_qc,,2021-04-26 22:00:00.000,2021-04-27 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-04-28_1,qc_01,,city_qc,,2021-04-27 22:00:00.000,2021-04-28 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-28_1,qc_02,,city_qc,,2021-04-27 22:00:00.000,2021-04-28 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-29_1,qc_01,,city_qc,,2021-04-28 22:00:00.000,2021-04-29 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-29_1,qc_02,,city_qc,,2021-04-28 22:00:00.000,2021-04-29 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-04-30_1,qc_01,,city_qc,,2021-04-29 22:00:00.000,2021-04-30 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-04-30_1,qc_02,,city_qc,,2021-04-29 22:00:00.000,2021-04-30 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-05-01_1,qc_01,,city_qc,,2021-04-30 22:00:00.000,2021-05-01 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-05-01_1,qc_02,,city_qc,,2021-04-30 22:00:00.000,2021-05-01 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cptp24h_rawww_2021-05-02_1,qc_01,,city_qc,,2021-05-01 22:00:00.000,2021-05-02 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-05-02_1,qc_02,,city_qc,,2021-05-01 22:00:00.000,2021-05-02 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-05-03_1,qc_01,,city_qc,,2021-05-02 22:00:00.000,2021-05-03 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-05-03_1,qc_02,,city_qc,,2021-05-02 22:00:00.000,2021-05-03 22:00:00.000,rawww,cptp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-04_1,qc_01,,city_qc,,2021-05-03 22:00:00.000,2021-05-04 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-04_1,qc_02,,city_qc,,2021-05-03 22:00:00.000,2021-05-04 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-05_1,qc_01,,city_qc,,2021-05-04 22:00:00.000,2021-05-05 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-05_1,qc_02,,city_qc,,2021-05-04 22:00:00.000,2021-05-05 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-06_1,qc_01,,city_qc,,2021-05-05 22:00:00.000,2021-05-06 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_02_cpfp24h_rawww_2021-05-06_1,qc_02,,city_qc,,2021-05-05 22:00:00.000,2021-05-06 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_01_cpfp24h_rawww_2021-05-07_1,qc_01,,city_qc,,2021-05-06 22:00:00.000,2021-05-07 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,general extraction problem
+qc_02_cpfp24h_rawww_2021-05-07_1,qc_02,,city_qc,,2021-05-06 22:00:00.000,2021-05-07 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low sars -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-05-08_1,qc_01,,city_qc,,2021-05-07 22:00:00.000,2021-05-08 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low sars -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-05-08_1,qc_02,,city_qc,,2021-05-07 22:00:00.000,2021-05-08 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-09_1,qc_01,,city_qc,,2021-05-08 22:00:00.000,2021-05-09 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-09_1,qc_02,,city_qc,,2021-05-08 22:00:00.000,2021-05-09 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,high sars -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-05-10_1,qc_01,,city_qc,,2021-05-09 22:00:00.000,2021-05-10 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-05-10_1,qc_02,,city_qc,,2021-05-09 22:00:00.000,2021-05-10 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-05-11_1,qc_01,,romain philippe,,2021-05-10 22:00:00.000,2021-05-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low brsv recovery -> unreliable?
+qc_02_cpfp24h_rawww_2021-05-11_1,qc_02,,romain philippe,,2021-05-10 22:00:00.000,2021-05-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-12_1,qc_01,,maryam tohidi,,2021-05-11 00:00:00.000,2021-05-12 00:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_02_cpfp24h_rawww_2021-05-12_1,qc_02,,maryam tohidi,,2021-05-11 00:00:00.000,2021-05-12 00:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_01_cpfp24h_rawww_2021-05-13_1,qc_01,,city_qc,,2021-05-12 22:00:00.000,2021-05-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-13_1,qc_02,,city_qc,,2021-05-12 22:00:00.000,2021-05-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-14_1,qc_01,,maryam tohidi,,2021-05-13 22:00:00.000,2021-05-14 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_02_cpfp24h_rawww_2021-05-14_1,qc_02,,maryam tohidi,,2021-05-13 22:00:00.000,2021-05-14 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_01_cpfp24h_rawww_2021-05-15_1,qc_01,,maryam tohidi,,2021-05-14 22:00:00.000,2021-05-15 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,low sars -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-05-15_1,qc_02,,maryam tohidi,,2021-05-14 22:00:00.000,2021-05-15 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_01_cpfp24h_rawww_2021-05-16_1,qc_01,,maryam tohidi,,2021-05-15 22:00:00.000,2021-05-16 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_02_cpfp24h_rawww_2021-05-16_1,qc_02,,maryam tohidi,,2021-05-15 22:00:00.000,2021-05-16 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,,True,
+qc_01_cpfp24h_rawww_2021-05-18_1,qc_01,,city_qc,,2021-05-17 22:00:00.000,2021-05-18 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-18_1,qc_02,,city_qc,,2021-05-17 22:00:00.000,2021-05-18 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-17_1,qc_01,,daniel bolduc,,2021-05-16 22:00:00.000,2021-05-17 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,problem with the calculation of brsv recovery: no ct values reported for the reference sample.
+qc_02_cpfp24h_rawww_2021-05-17_1,qc_02,,daniel bolduc,,2021-05-16 22:00:00.000,2021-05-17 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,problem with the calculation of brsv recovery: no ct values reported for the reference sample. unrealistic high sars value -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-05-19_1,qc_01,,city_qc,,2021-05-18 21:59:59.995,2021-05-19 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-19_1,qc_02,,city_qc,,2021-05-18 21:59:59.995,2021-05-19 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-20_1,qc_01,,city_qc,,2021-05-19 22:00:00.000,2021-05-20 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,"low sars, possible that we are on the edge of the limit of detection given the low cases in the city"
+qc_02_cpfp24h_rawww_2021-05-20_1,qc_02,,city_qc,,2021-05-19 22:00:00.000,2021-05-20 22:00:00.000,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,"low sars, possible that we are on the edge of the limit of detection given the low cases in the city"
+qc_01_cpfp24h_rawww_2021-05-21_1,qc_01,,city_qc,,2021-05-20 21:59:59.995,2021-05-21 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-21_1,qc_02,,city_qc,,2021-05-20 21:59:59.995,2021-05-21 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-22_1,qc_01,,city_qc,,2021-05-21 21:59:59.995,2021-05-22 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-22_1,qc_02,,city_qc,,2021-05-21 21:59:59.995,2021-05-22 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-23_1,qc_01,,city_qc,,2021-05-22 21:59:59.995,2021-05-23 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-23_1,qc_02,,city_qc,,2021-05-22 21:59:59.995,2021-05-23 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-05-24_1,qc_01,,city_qc,,2021-05-23 21:59:59.995,2021-05-24 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-05-24_1,qc_02,,city_qc,,2021-05-23 21:59:59.995,2021-05-24 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-25_1,qc_01,,city_qc,,2021-05-24 21:59:59.995,2021-05-25 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-05-25_1,qc_02,,city_qc,,2021-05-24 21:59:59.995,2021-05-25 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-26_1,qc_01,,city_qc,,2021-05-25 21:59:59.995,2021-05-26 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,pm3 expired reagent in rna extraction
+qc_02_cpfp24h_rawww_2021-05-26_1,qc_02,,city_qc,,2021-05-25 21:59:59.995,2021-05-26 21:59:59.995,rawww,cpfp24h,True,False,,,0.25,1,,True,4.0,True,pm3 expired reagent in rna extraction
+qc_01_cpfp24h_rawww_2021-05-27_1,qc_01,,city_qc,,2021-05-26 21:59:59.995,2021-05-27 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low sars, possible that we are on the edge of the limit of detection given the low cases in the city"
+qc_02_cpfp24h_rawww_2021-05-27_1,qc_02,,city_qc,,2021-05-26 21:59:59.995,2021-05-27 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-28_1,qc_01,,city_qc,,2021-05-27 21:59:59.995,2021-05-28 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-28_1,qc_02,,city_qc,,2021-05-27 21:59:59.995,2021-05-28 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-29_1,qc_01,,city_qc,,2021-05-28 21:59:59.995,2021-05-29 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-29_1,qc_02,,city_qc,,2021-05-28 21:59:59.995,2021-05-29 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-30_1,qc_01,,city_qc,,2021-05-29 21:59:59.995,2021-05-30 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-30_1,qc_02,,city_qc,,2021-05-29 21:59:59.995,2021-05-30 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-05-31_1,qc_01,,city_qc,,2021-05-30 21:59:59.995,2021-05-31 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-05-31_1,qc_02,,city_qc,,2021-05-30 21:59:59.995,2021-05-31 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-01_1,qc_01,,city_qc,,2021-05-31 21:59:59.995,2021-06-01 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-01_1,qc_02,,city_qc,,2021-05-31 21:59:59.995,2021-06-01 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmov low -> potentially unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-06-02_1,qc_01,,city_qc,,2021-06-01 22:00:00.000,2021-06-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-02_1,qc_02,,city_qc,,2021-06-01 22:00:00.000,2021-06-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-03_1,qc_01,,city_qc,,2021-06-02 22:00:00.000,2021-06-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low brsv recovery -> unreliable?
+qc_02_cpfp24h_rawww_2021-06-03_1,qc_02,,city_qc,,2021-06-02 22:00:00.000,2021-06-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-04_1,qc_01,,city_qc,,2021-06-03 21:59:59.995,2021-06-04 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-04_1,qc_02,,city_qc,,2021-06-03 21:59:59.995,2021-06-04 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmov low -> potentially unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-06-05_1,qc_01,,city_qc,,2021-06-04 21:59:59.995,2021-06-05 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-05_1,qc_02,,city_qc,,2021-06-04 21:59:59.995,2021-06-05 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-06_1,qc_01,,city_qc,,2021-06-05 21:59:59.995,2021-06-06 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-06_1,qc_02,,city_qc,,2021-06-05 21:59:59.995,2021-06-06 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-07_1,qc_01,,city_qc,,2021-06-06 22:00:00.000,2021-06-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-07_1,qc_02,,city_qc,,2021-06-06 22:00:00.000,2021-06-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-08_1,qc_01,,city_qc,,2021-06-07 22:00:00.000,2021-06-08 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-08_1,qc_02,,city_qc,,2021-06-07 22:00:00.000,2021-06-08 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-09_1,qc_01,,city_qc,,2021-06-08 21:59:59.995,2021-06-09 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-09_1,qc_02,,city_qc,,2021-06-08 21:59:59.995,2021-06-09 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-10_1,qc_01,,city_qc,,2021-06-09 21:59:59.995,2021-06-10 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-10_1,qc_02,,city_qc,,2021-06-09 21:59:59.995,2021-06-10 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-11_1,qc_01,,city_qc,,2021-06-10 22:00:00.000,2021-06-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-11_1,qc_02,,city_qc,,2021-06-10 22:00:00.000,2021-06-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-06-12_1,qc_01,,city_qc,,2021-06-11 22:00:00.000,2021-06-12 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-12_1,qc_02,,city_qc,,2021-06-11 22:00:00.000,2021-06-12 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-13_1,qc_01,,city_qc,,2021-06-12 22:00:00.000,2021-06-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-13_1,qc_02,,city_qc,,2021-06-12 22:00:00.000,2021-06-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-14_1,qc_01,,city_qc,,2021-06-13 22:00:00.000,2021-06-14 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-14_1,qc_02,,city_qc,,2021-06-13 22:00:00.000,2021-06-14 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-15_1,qc_01,,city_qc,,2021-06-14 22:00:00.000,2021-06-15 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-15_1,qc_02,,city_qc,,2021-06-14 22:00:00.000,2021-06-15 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-16_1,qc_01,,city_qc,,2021-06-15 22:00:00.000,2021-06-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-16_1,qc_02,,city_qc,,2021-06-15 22:00:00.000,2021-06-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-17_1,qc_01,,city_qc,,2021-06-16 22:00:00.000,2021-06-17 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-17_1,qc_02,,city_qc,,2021-06-16 22:00:00.000,2021-06-17 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-18_1,qc_01,,city_qc,,2021-06-17 21:59:59.995,2021-06-18 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-18_1,qc_02,,city_qc,,2021-06-17 21:59:59.995,2021-06-18 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-19_1,qc_01,,city_qc,,2021-06-18 21:59:59.995,2021-06-19 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-19_1,qc_02,,city_qc,,2021-06-18 21:59:59.995,2021-06-19 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-20_1,qc_01,,city_qc,,2021-06-19 21:59:59.995,2021-06-20 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov. low brsv recovery-> unreliable?
+qc_02_cpfp24h_rawww_2021-06-20_1,qc_02,,city_qc,,2021-06-19 21:59:59.995,2021-06-20 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov.
+qc_01_cpfp24h_rawww_2021-06-21_1,qc_01,,city_qc,,2021-06-20 21:59:59.995,2021-06-21 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-22_1,qc_01,,city_qc,,2021-06-21 21:59:59.995,2021-06-22 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-22_1,qc_02,,city_qc,,2021-06-21 21:59:59.995,2021-06-22 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-23_1,qc_01,,city_qc,,2021-06-22 21:59:59.995,2021-06-23 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-23_1,qc_02,,city_qc,,2021-06-22 21:59:59.995,2021-06-23 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-24_1,qc_01,,city_qc,,2021-06-23 21:59:59.995,2021-06-24 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-24_1,qc_02,,city_qc,,2021-06-23 21:59:59.995,2021-06-24 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov.
+qc_01_cpfp24h_rawww_2021-06-28_1,qc_01,,city_qc,,2021-06-27 21:59:59.995,2021-06-28 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-28_1,qc_02,,city_qc,,2021-06-27 21:59:59.995,2021-06-28 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-25_1,qc_01,,city_qc,,2021-06-24 21:59:59.995,2021-06-25 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-25_1,qc_02,,city_qc,,2021-06-24 21:59:59.995,2021-06-25 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-06-26_1,qc_01,,city_qc,,2021-06-25 21:59:59.995,2021-06-26 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-26_1,qc_02,,city_qc,,2021-06-25 21:59:59.995,2021-06-26 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-27_1,qc_01,,city_qc,,2021-06-26 21:59:59.995,2021-06-27 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-27_1,qc_02,,city_qc,,2021-06-26 21:59:59.995,2021-06-27 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-30_1,qc_01,,city_qc,,2021-06-29 21:59:59.995,2021-06-30 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-06-30_1,qc_02,,city_qc,,2021-06-29 22:00:00.000,2021-06-30 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-01_1,qc_01,,city_qc,,2021-06-30 21:59:59.995,2021-07-01 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-01_1,qc_02,,city_qc,,2021-06-30 21:59:59.995,2021-07-01 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-06-29_1,qc_01,,city_qc,,2021-06-28 21:59:59.995,2021-06-29 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-06-29_1,qc_02,,city_qc,,2021-06-28 21:59:59.995,2021-06-29 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-02_1,qc_01,,city_qc,,2021-07-01 21:59:59.995,2021-07-02 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-07-02_1,qc_02,,city_qc,,2021-07-01 21:59:59.995,2021-07-02 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-03_1,qc_01,,city_qc,,2021-07-02 21:59:59.995,2021-07-03 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-03_1,qc_02,,city_qc,,2021-07-02 21:59:59.995,2021-07-03 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-04_1,qc_01,,city_qc,,2021-07-03 21:59:59.995,2021-07-04 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-04_1,qc_02,,city_qc,,2021-07-03 21:59:59.995,2021-07-04 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,high pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-05_1,qc_01,,city_qc,,2021-07-04 21:59:59.995,2021-07-05 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-05_1,qc_02,,city_qc,,2021-07-04 21:59:59.995,2021-07-05 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-06_1,qc_01,,city_qc,,2021-07-05 21:59:59.995,2021-07-06 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-06_1,qc_02,,city_qc,,2021-07-05 21:59:59.995,2021-07-06 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-07_1,qc_01,,city_qc,,2021-07-06 21:59:59.995,2021-07-07 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-07-07_1,qc_02,,city_qc,,2021-07-06 21:59:59.995,2021-07-07 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-08_1,qc_01,,city_qc,,2021-07-07 21:59:59.995,2021-07-08 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-08_1,qc_02,,city_qc,,2021-07-07 21:59:59.995,2021-07-08 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-09_1,qc_01,,city_qc,,2021-07-08 21:59:59.995,2021-07-09 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-07-09_1,qc_02,,city_qc,,2021-07-08 21:59:59.995,2021-07-09 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-10_1,qc_01,,city_qc,,2021-07-09 21:59:59.995,2021-07-10 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-10_1,qc_02,,city_qc,,2021-07-09 21:59:59.995,2021-07-10 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-11_1,qc_01,,city_qc,,2021-07-10 21:59:59.995,2021-07-11 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-11_1,qc_02,,city_qc,,2021-07-10 21:59:59.995,2021-07-11 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-12_1,qc_01,,city_qc,,2021-07-11 21:59:59.995,2021-07-12 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-12_1,qc_02,,city_qc,,2021-07-11 21:59:59.995,2021-07-12 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-13_1,qc_01,,city_qc,,2021-07-12 21:59:59.995,2021-07-13 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-07-13_1,qc_02,,city_qc,,2021-07-12 21:59:59.995,2021-07-13 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-14_1,qc_01,,city_qc,,2021-07-13 21:59:59.995,2021-07-14 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_02_cpfp24h_rawww_2021-07-14_1,qc_02,,city_qc,,2021-07-13 21:59:59.995,2021-07-14 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov
+qc_01_cpfp24h_rawww_2021-07-16_1,qc_01,,city_qc,,2021-07-15 22:00:00.000,2021-07-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_02_cpfp24h_rawww_2021-07-16_1,qc_02,,city_qc,,2021-07-15 22:00:00.000,2021-07-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_01_cpfp24h_rawww_2021-07-17_1,qc_01,,city_qc,,2021-07-16 21:59:59.995,2021-07-17 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_02_cpfp24h_rawww_2021-07-17_1,qc_02,,city_qc,,2021-07-16 21:59:59.995,2021-07-17 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_01_cpfp24h_rawww_2021-07-18_1,qc_01,,city_qc,,2021-07-17 21:59:59.995,2021-07-18 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_02_cpfp24h_rawww_2021-07-18_1,qc_02,,city_qc,,2021-07-17 21:59:59.995,2021-07-18 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-19_1,qc_01,,city_qc,,2021-07-18 22:00:00.000,2021-07-19 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov and sars near or on detection limit
+qc_02_cpfp24h_rawww_2021-07-19_1,qc_02,,city_qc,,2021-07-18 22:00:00.000,2021-07-19 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, low pmmov -> unreliable sars/pmmov and sars near or on detection limit"
+qc_01_cpfp24h_rawww_2021-07-20_1,qc_01,,city_qc,,2021-07-19 21:59:59.995,2021-07-20 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov and sars near or on detection limit
+qc_02_cpfp24h_rawww_2021-07-20_1,qc_02,,city_qc,,2021-07-19 21:59:59.995,2021-07-20 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low pmmov -> unreliable sars/pmmov and sars near or on detection limit
+qc_01_cpfp24h_rawww_2021-07-21_1,qc_01,,city_qc,,2021-07-20 21:59:59.995,2021-07-21 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_02_cpfp24h_rawww_2021-07-21_1,qc_02,,city_qc,,2021-07-20 21:59:59.995,2021-07-21 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_01_cpfp24h_rawww_2021-07-22_1,qc_01,,city_qc,,2021-07-21 21:59:59.995,2021-07-22 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_02_cpfp24h_rawww_2021-07-22_1,qc_02,,city_qc,,2021-07-21 21:59:59.995,2021-07-22 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_01_cpfp24h_rawww_2021-07-23_1,qc_01,,city_qc,,2021-07-22 21:59:59.995,2021-07-23 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_02_cpfp24h_rawww_2021-07-23_1,qc_02,,city_qc,,2021-07-22 21:59:59.995,2021-07-23 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_01_cpfp24h_rawww_2021-07-24_1,qc_01,,city_qc,,2021-07-23 21:59:59.995,2021-07-24 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_02_cpfp24h_rawww_2021-07-24_1,qc_02,,city_qc,,2021-07-23 21:59:59.995,2021-07-24 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_01_cpfp24h_rawww_2021-07-25_1,qc_01,,city_qc,,2021-07-24 21:59:59.995,2021-07-25 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,
+qc_02_cpfp24h_rawww_2021-07-25_1,qc_02,,city_qc,,2021-07-24 21:59:59.995,2021-07-25 21:59:59.995,rawww,cpfp24h,True,False,,,,1,,True,-20.0,True,low pmmov -> unreliable sars/pmmov and sars near or on detection limit
+qc_01_cpfp24h_rawww_2021-07-26_1,qc_01,,city_qc,,2021-07-25 22:00:00.000,2021-07-26 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-26_1,qc_02,,city_qc,,2021-07-25 22:00:00.000,2021-07-26 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-27_1,qc_01,,city_qc,,2021-07-26 22:00:00.000,2021-07-27 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-07-27_1,qc_02,,city_qc,,2021-07-26 22:00:00.000,2021-07-27 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-28_1,qc_01,,city_qc,,2021-07-27 22:00:00.000,2021-07-28 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_02_cpfp24h_rawww_2021-07-28_1,qc_02,,city_qc,,2021-07-27 22:00:00.000,2021-07-28 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-29_1,qc_01,,city_qc,,2021-07-28 22:00:00.000,2021-07-29 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low brsv, sars near or on detection limit"
+qc_02_cpfp24h_rawww_2021-07-29_1,qc_02,,city_qc,,2021-07-28 22:00:00.000,2021-07-29 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-07-30_1,qc_01,,city_qc,,2021-07-29 22:00:00.000,2021-07-30 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cpfp24h_rawww_2021-07-30_1,qc_02,,city_qc,,2021-07-29 22:00:00.000,2021-07-30 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cpfp24h_rawww_2021-07-31_1,qc_01,,city_qc,,2021-07-30 22:00:00.000,2021-07-31 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cpfp24h_rawww_2021-07-31_1,qc_02,,city_qc,,2021-07-30 22:00:00.000,2021-07-31 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,False,
+qc_01_cpfp24h_rawww_2021-08-01_1,qc_01,,city_qc,,2021-07-31 22:00:00.000,2021-08-01 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,False,
+qc_02_cpfp24h_rawww_2021-08-01_1,qc_02,,city_qc,,2021-07-31 22:00:00.000,2021-08-01 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cpfp24h_rawww_2021-08-02_1,qc_01,,city_qc,,2021-08-01 22:00:00.000,2021-08-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cpfp24h_rawww_2021-08-02_1,qc_02,,city_qc,,2021-08-01 22:00:00.000,2021-08-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cpfp24h_rawww_2021-08-03_1,qc_01,,city_qc,,2021-08-02 22:00:00.000,2021-08-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cpfp24h_rawww_2021-08-03_1,qc_02,,city_qc,,2021-08-02 22:00:00.000,2021-08-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-04_1,qc_01,,city_qc,,2021-08-03 22:00:00.000,2021-08-04 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-04_1,qc_02,,city_qc,,2021-08-03 22:00:00.000,2021-08-04 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-05_1,qc_01,,city_qc,,2021-08-04 22:00:00.000,2021-08-05 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-05_1,qc_02,,city_qc,,2021-08-04 22:00:00.000,2021-08-05 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-06_1,qc_01,,city_qc,,2021-08-05 22:00:00.000,2021-08-06 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-06_1,qc_02,,city_qc,,2021-08-05 22:00:00.000,2021-08-06 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-07_1,qc_01,,city_qc,,2021-08-06 22:00:00.000,2021-08-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-07_1,qc_02,,city_qc,,2021-08-06 22:00:00.000,2021-08-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-08_1,qc_01,,city_qc,,2021-08-07 22:00:00.000,2021-08-08 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-08_1,qc_02,,city_qc,,2021-08-07 22:00:00.000,2021-08-08 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-09_1,qc_01,,city_qc,,2021-08-08 22:00:00.000,2021-08-09 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmov low
+qc_02_cpfp24h_rawww_2021-08-09_1,qc_02,,city_qc,,2021-08-08 22:00:00.000,2021-08-09 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-10_1,qc_01,,city_qc,,2021-08-09 22:00:00.000,2021-08-10 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmov low
+qc_02_cpfp24h_rawww_2021-08-10_1,qc_02,,city_qc,,2021-08-09 22:00:00.000,2021-08-10 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmov low
+qc_01_cpfp24h_rawww_2021-08-11_1,qc_01,,city_qc,,2021-08-10 22:00:00.000,2021-08-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-11_1,qc_02,,city_qc,,2021-08-10 22:00:00.000,2021-08-11 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"pmmov low, low brsv"
+qc_01_cpfp24h_rawww_2021-08-12_1,qc_01,,city_qc,,2021-08-11 22:00:00.000,2021-08-12 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-12_1,qc_02,,city_qc,,2021-08-11 22:00:00.000,2021-08-12 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low brsv
+qc_01_cpfp24h_rawww_2021-08-13_1,qc_01,,city_qc,,2021-08-12 22:00:00.000,2021-08-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-13_1,qc_02,,city_qc,,2021-08-12 22:00:00.000,2021-08-13 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-14_1,qc_01,,city_qc,,2021-08-13 22:00:00.000,2021-08-14 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,low brsv
+qc_02_cpfp24h_rawww_2021-08-14_1,qc_02,,city_qc,,2021-08-13 22:00:00.000,2021-08-14 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-15_1,qc_01,,city_qc,,2021-08-14 22:00:00.000,2021-08-15 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-15_1,qc_02,,city_qc,,2021-08-14 22:00:00.000,2021-08-15 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-16_1,qc_01,,city_qc,,2021-08-15 22:00:00.000,2021-08-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-16_1,qc_02,,city_qc,,2021-08-15 22:00:00.000,2021-08-16 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-17_1,qc_01,,city_qc,,2021-08-16 22:00:00.000,2021-08-17 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-17_1,qc_02,,city_qc,,2021-08-16 22:00:00.000,2021-08-17 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-18_1,qc_01,,city_qc,,2021-08-17 22:00:00.000,2021-08-18 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-18_1,qc_02,,city_qc,,2021-08-17 22:00:00.000,2021-08-18 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-19_1,qc_01,,city_qc,,2021-08-18 22:00:00.000,2021-08-19 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-19_1,qc_02,,city_qc,,2021-08-18 22:00:00.000,2021-08-19 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cpfp24h_rawww_2021-08-20_1,qc_01,,city_qc,,2021-08-19 22:00:00.000,2021-08-20 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-20_1,qc_02,,city_qc,,2021-08-19 22:00:00.000,2021-08-20 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-21_1,qc_01,,city_qc,,2021-08-20 22:00:00.000,2021-08-21 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low pmmov, low sars"
+qc_02_cpfp24h_rawww_2021-08-21_1,qc_02,,city_qc,,2021-08-20 22:00:00.000,2021-08-21 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,"low pmmov, low sars"
+qc_01_cpfp24h_rawww_2021-08-22_1,qc_01,,city_qc,,2021-08-21 22:00:00.000,2021-08-22 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-22_1,qc_02,,city_qc,,2021-08-21 22:00:00.000,2021-08-22 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-23_1,qc_01,,city_qc,,2021-08-22 22:00:00.000,2021-08-23 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-23_1,qc_02,,city_qc,,2021-08-22 22:00:00.000,2021-08-23 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-24_1,qc_01,,city_qc,,2021-08-23 22:00:00.000,2021-08-24 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-24_1,qc_02,,city_qc,,2021-08-23 22:00:00.000,2021-08-24 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-25_1,qc_01,,city_qc,,2021-08-24 22:00:00.000,2021-08-25 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-25_1,qc_02,,city_qc,,2021-08-24 22:00:00.000,2021-08-25 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-26_1,qc_01,,city_qc,,2021-08-25 22:00:00.000,2021-08-26 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-08-26_1,qc_02,,city_qc,,2021-08-25 22:00:00.000,2021-08-26 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-27_1,qc_01,,city_qc,,2021-08-26 22:00:00.000,2021-08-27 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_02_cpfp24h_rawww_2021-08-27_1,qc_02,,city_qc,,2021-08-26 22:00:00.000,2021-08-27 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_01_cpfp24h_rawww_2021-08-28_1,qc_01,,city_qc,,2021-08-27 22:00:00.000,2021-08-28 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_02_cpfp24h_rawww_2021-08-28_1,qc_02,,city_qc,,2021-08-27 22:00:00.000,2021-08-28 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_01_cpfp24h_rawww_2021-08-29_1,qc_01,,city_qc,,2021-08-28 22:00:00.000,2021-08-29 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_02_cpfp24h_rawww_2021-08-29_1,qc_02,,city_qc,,2021-08-28 22:00:00.000,2021-08-29 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv high
+qc_01_cpfp24h_rawww_2021-08-30_1,qc_01,,city_qc,,2021-08-29 22:00:00.000,2021-08-30 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_02_cpfp24h_rawww_2021-08-30_1,qc_02,,city_qc,,2021-08-29 22:00:00.000,2021-08-30 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-08-31_1,qc_01,,city_qc,,2021-08-30 22:00:00.000,2021-08-31 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_02_cpfp24h_rawww_2021-08-31_1,qc_02,,city_qc,,2021-08-30 22:00:00.000,2021-08-31 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-01_1,qc_01,,city_qc,,2021-08-31 22:00:00.000,2021-09-01 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-01_1,qc_02,,city_qc,,2021-08-31 22:00:00.000,2021-09-01 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-02_1,qc_01,,city_qc,,2021-09-01 22:00:00.000,2021-09-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-02_1,qc_02,,city_qc,,2021-09-01 22:00:00.000,2021-09-02 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-03_1,qc_01,,city_qc,,2021-09-02 22:00:00.000,2021-09-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-03_1,qc_02,,city_qc,,2021-09-02 22:00:00.000,2021-09-03 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-04_1,qc_01,,city_qc,,2021-09-03 22:00:00.000,2021-09-04 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-04_1,qc_02,,city_qc,,2021-09-03 22:00:00.000,2021-09-04 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-06_1,qc_01,,city_qc,,2021-09-05 22:00:00.000,2021-09-06 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-06_1,qc_02,,city_qc,,2021-09-05 22:00:00.000,2021-09-06 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-07_1,qc_01,,city_qc,,2021-09-06 22:00:00.000,2021-09-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-07_1,qc_02,,city_qc,,2021-09-06 22:00:00.000,2021-09-07 22:00:00.000,rawww,cpfp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-08_1,qc_01,,city_qc,,2021-09-07 22:00:00.000,2021-09-08 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-08_1,qc_02,,city_qc,,2021-09-07 22:00:00.000,2021-09-08 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-09_1,qc_01,,city_qc,,2021-09-08 22:00:00.000,2021-09-09 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-09_1,qc_02,,city_qc,,2021-09-08 22:00:00.000,2021-09-09 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cpfp24h_rawww_2021-09-10_1,qc_01,,city_qc,,2021-09-09 22:00:00.000,2021-09-10 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-10_1,qc_02,,city_qc,,2021-09-09 22:00:00.000,2021-09-10 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_01_cpfp24h_rawww_2021-09-11_1,qc_01,,city_qc,,2021-09-10 22:00:00.000,2021-09-11 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-11_1,qc_02,,city_qc,,2021-09-10 22:00:00.000,2021-09-11 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_01_cpfp24h_rawww_2021-09-12_1,qc_01,,city_qc,,2021-09-11 22:00:00.000,2021-09-12 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cpfp24h_rawww_2021-09-12_1,qc_02,,city_qc,,2021-09-11 22:00:00.000,2021-09-12 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_01_cptp24h_rawww_2021-09-13_1,qc_01,,city_qc,,2021-09-12 22:00:00.000,2021-09-13 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-13_1,qc_02,,city_qc,,2021-09-12 22:00:00.000,2021-09-13 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-14_1,qc_01,,city_qc,,2021-09-13 22:00:00.000,2021-09-14 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-14_1,qc_02,,city_qc,,2021-09-13 22:00:00.000,2021-09-14 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-15_1,qc_01,,city_qc,,2021-09-14 22:00:00.000,2021-09-15 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_02_cptp24h_rawww_2021-09-15_1,qc_02,,city_qc,,2021-09-14 22:00:00.000,2021-09-15 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"low pmmv, but it was rainy"
+qc_01_cptp24h_rawww_2021-09-16_1,qc_01,,city_qc,,2021-09-15 22:00:00.000,2021-09-16 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-16_1,qc_02,,city_qc,,2021-09-15 22:00:00.000,2021-09-16 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,"low pmmv, but it was rainy the day before"
+qc_01_cptp24h_rawww_2021-09-17_1,qc_01,,city_qc,,2021-09-16 22:00:00.000,2021-09-17 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-17_1,qc_02,,city_qc,,2021-09-16 22:00:00.000,2021-09-17 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-18_1,qc_01,,city_qc,,2021-09-17 22:00:00.000,2021-09-18 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-18_1,qc_02,,city_qc,,2021-09-17 22:00:00.000,2021-09-18 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-19_1,qc_01,,city_qc,,2021-09-18 22:00:00.000,2021-09-19 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-19_1,qc_02,,city_qc,,2021-09-18 22:00:00.000,2021-09-19 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-20_1,qc_01,,city_qc,,2021-09-19 22:00:00.000,2021-09-20 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-20_1,qc_02,,city_qc,,2021-09-19 22:00:00.000,2021-09-20 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-21_1,qc_01,,city_qc,,2021-09-20 22:00:00.000,2021-09-21 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-21_1,qc_02,,city_qc,,2021-09-20 22:00:00.000,2021-09-21 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-22_1,qc_01,,city_qc,,2021-09-21 22:00:00.000,2021-09-22 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-22_1,qc_02,,city_qc,,2021-09-21 22:00:00.000,2021-09-22 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-23_1,qc_01,,city_qc,,2021-09-22 22:00:00.000,2021-09-23 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-23_1,qc_02,,city_qc,,2021-09-22 22:00:00.000,2021-09-23 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-24_1,qc_01,,city_qc,,2021-09-23 22:00:00.000,2021-09-24 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-24_1,qc_02,,city_qc,,2021-09-23 22:00:00.000,2021-09-24 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-25_1,qc_01,,city_qc,,2021-09-24 22:00:00.000,2021-09-25 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-25_1,qc_02,,city_qc,,2021-09-24 22:00:00.000,2021-09-25 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_01_cptp24h_rawww_2021-09-26_1,qc_01,,city_qc,,2021-09-25 22:00:00.000,2021-09-26 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-26_1,qc_02,,city_qc,,2021-09-25 22:00:00.000,2021-09-26 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,pmmv low
+qc_01_cptp24h_rawww_2021-09-27_1,qc_01,,city_qc,,2021-09-26 22:00:00.000,2021-09-27 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-27_1,qc_02,,city_qc,,2021-09-26 22:00:00.000,2021-09-27 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-28_1,qc_01,,city_qc,,2021-09-27 22:00:00.000,2021-09-28 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-09-28_1,qc_02,,city_qc,,2021-09-27 22:00:00.000,2021-09-28 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-09-29_1,qc_01,,city_qc,,2021-09-28 22:00:00.000,2021-09-29 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cptp24h_rawww_2021-09-29_1,qc_02,,city_qc,,2021-09-28 22:00:00.000,2021-09-29 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cptp24h_rawww_2021-09-30_1,qc_01,,city_qc,,2021-09-29 22:00:00.000,2021-09-30 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv high
+qc_02_cptp24h_rawww_2021-09-30_1,qc_02,,city_qc,,2021-09-29 22:00:00.000,2021-09-30 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,brsv recovery high
+qc_01_cptp24h_rawww_2021-10-01_1,qc_01,,city_qc,,2021-09-30 22:00:00.000,2021-10-01 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-10-01_1,qc_02,,city_qc,,2021-09-30 22:00:00.000,2021-10-01 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_01_cptp24h_rawww_2021-10-02_1,qc_01,,city_qc,,2021-10-01 22:00:00.000,2021-10-02 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-10-02_1,qc_02,,city_qc,,2021-10-01 22:00:00.000,2021-10-02 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_01_cptp24h_rawww_2021-10-03_1,qc_01,,city_qc,,2021-10-02 22:00:00.000,2021-10-03 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-10-03_1,qc_02,,city_qc,,2021-10-02 22:00:00.000,2021-10-03 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-10-04_1,qc_01,,city_qc,,2021-10-03 22:00:00.000,2021-10-04 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_02_cptp24h_rawww_2021-10-04_1,qc_02,,city_qc,,2021-10-03 22:00:00.000,2021-10-04 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-10-05_1,qc_01,,city_qc,,2021-10-04 22:00:00.000,2021-10-05 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_02_cptp24h_rawww_2021-10-05_1,qc_02,,city_qc,,2021-10-04 22:00:00.000,2021-10-05 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,low pmmov
+qc_01_cptp24h_rawww_2021-10-06_1,qc_01,,city_qc,,2021-10-05 22:00:00.000,2021-10-06 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-10-06_1,qc_02,,city_qc,,2021-10-05 22:00:00.000,2021-10-06 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_01_cptp24h_rawww_2021-10-07_1,qc_01,,city_qc,,2021-10-06 22:00:00.000,2021-10-07 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,
+qc_02_cptp24h_rawww_2021-10-07_1,qc_02,,city_qc,,2021-10-06 22:00:00.000,2021-10-07 22:00:00.000,rawww,cptp24h,True,False,,,,1,,True,4.0,True,

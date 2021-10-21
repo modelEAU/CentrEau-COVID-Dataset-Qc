@@ -1,0 +1,3 @@
+siteID,name,description,publicHealthDepartment,healthRegion,type,geoLat,geoLong,polygonID,link,notes
+qc_01,québec station est,"wwtp in the east of quebec city. it concerns a biofiltration treatment (30 biofilters) with primary, secondary and tertairy treatment.",,,wwtpmuc,46.83596,-71.20549,qc_01_swrcat,,
+qc_02,québec station ouest,"wwtp in the west of quebec city. it concerns a biofiltration treatment (22 biofilters) with primary, secondary and tertairy treatment.",,,wwtpmuc,46.78977,-71.3173,qc_02_swrcat,,

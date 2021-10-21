@@ -1,5 +1,7 @@
-
 # SARS-CoV-2 wastewater surveillance data and metadata in the Open Data Model format. Part 1: Québec City
+
+## Cite this dataset:
+[![DOI](https://zenodo.org/badge/419828268.svg)](https://zenodo.org/badge/latestdoi/419828268)
 
 ## Authors
 

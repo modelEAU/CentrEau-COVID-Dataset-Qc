@@ -1,0 +1,92 @@
+{
+    "language": "eng", 
+    "license": "CC-BY-4.0", 
+    "title": "SARS-CoV-2 wastewater surveillance data and metadata in the Open Data Model format. Part 1: Qu\u00e9bec City", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/modelEAU/CentrEau-COVID-Dataset-Qc/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5590579", 
+            "relation": "isVersionOf"
+        }
+    ], 
+    "version": "v1.0", 
+    "upload_type": "dataset", 
+    "keywords": [
+        "SARS-CoV-2", 
+        "Wastewater-based surveillance", 
+        "Wastewater-based epidemiology"
+    ], 
+    "publication_date": "2021-10-21", 
+    "creators": [
+        {
+            "orcid": "0000-0002-8561-2916", 
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Therrien, Jean-David"
+        }, 
+        {
+            "orcid": "0000-0003-2885-0421", 
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Maere, Thomas"
+        }, 
+        {
+            "orcid": "0000-0001-6790-2728", 
+            "affiliation": "Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University", 
+            "name": "S\u00e1nchez-Quete, Fernando"
+        }, 
+        {
+            "orcid": "0000-0003-1710-6648", 
+            "affiliation": "Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University", 
+            "name": "Tsitouras, Alexandra"
+        }, 
+        {
+            "affiliation": "Polytechnique Montr\u00e9al", 
+            "name": "Goitom, Eyerusalem"
+        }, 
+        {
+            "affiliation": "Ville de Qu\u00e9bec", 
+            "name": "Cloutier, Fr\u00e9d\u00e9ric"
+        }, 
+        {
+            "affiliation": "Ville de Qu\u00e9bec", 
+            "name": "Dufour, Denis"
+        }, 
+        {
+            "affiliation": "Ville de Qu\u00e9bec", 
+            "name": "Proulx, Fran\u00e7ois"
+        }, 
+        {
+            "orcid": "0000-0003-2794-2930", 
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Nicola\u00ef, Niels"
+        }, 
+        {
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Philippe, Romain"
+        }, 
+        {
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Tohidi, Maryam"
+        }, 
+        {
+            "affiliation": "Polytechnique Montr\u00e9al", 
+            "name": "Dorner, Sarah"
+        }, 
+        {
+            "orcid": "0000-0003-1587-8943", 
+            "affiliation": "Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University", 
+            "name": "Frigon, Dominic"
+        }, 
+        {
+            "orcid": "0000-0003-1695-1313", 
+            "affiliation": "modelEAU, D\u00e9partement de g\u00e9nie civil et de g\u00e9nie des eaux, Universit\u00e9 Laval", 
+            "name": "Vanrolleghem, Peter A."
+        }
+    ], 
+    "access_right": "open", 
+    "description": "<p>SARS-CoV-2 wastewater surveillance data and metadata in the Open Data Model format. Part 1: Qu&eacute;bec City Authors</p>\n\n<ul>\n\t<li>Therrien, J-D<sup>1</sup></li>\n\t<li>Maere, T.<sup>1</sup></li>\n\t<li>Sanchez-Quete, F.<sup>2</sup></li>\n\t<li>Tsitouras, A.<sup>2</sup></li>\n\t<li>Goitom, E.<sup>3</sup></li>\n\t<li>Cloutier, F.<sup>4</sup></li>\n\t<li>Dufour, D.<sup>4</sup></li>\n\t<li>Proulx, F. <sup>4</sup></li>\n\t<li>Nicola&iuml;, N.<sup>1</sup></li>\n\t<li>Philippe, R.<sup>1</sup></li>\n\t<li>Tohidi, M.<sup>1</sup></li>\n\t<li>Dorner, S.<sup>3</sup></li>\n\t<li>Frigon, D.<sup>2</sup></li>\n\t<li>Vanrolleghem, P.A.<sup>1</sup></li>\n</ul>\n\n<p>Affiliations</p>\n\n<ul>\n\t<li><sup>1</sup> model<em>EAU</em>, D&eacute;partement de g&eacute;nie civil et de g&eacute;nie des eaux, Universit&eacute; Laval</li>\n\t<li><sup>2</sup> Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University</li>\n\t<li><sup>3</sup> Polytechnique Montr&eacute;al</li>\n\t<li><sup>4</sup> Ville de Qu&eacute;bec</li>\n</ul>\n\n<p>General Remarks</p>\n\n<p>Wastewater-based surveillance of SARS-CoV-2 virus can detect between 1 and 30 infected individuals per 100,000 (including asymptomatic ones) by analyzing the population&#39;s sewage. As such, this method is very attractive since it costs only a fraction of clinical testing (as low as 1%). Human faeces may contain the virus a few days before a person becomes ill. Thus, this approach allows for detection of outbreaks 2-7 days before the increase in reported cases stemming from clinical screening tests (Bibby et al., 2021). Wastewater-based surveillance complements clinical testing by geolocating outbreaks, which may help targeting intensive screening programs. Moreover, it provides a quick indication of whether new public health measures (e.g., masks, social distancing, confinement, and curfew) are effective.</p>\n\n<p>Sampling</p>\n\n<p>The reported dataset contains open data collected in the province of Qu&eacute;bec as part of the SARS-CoV-2 wastewater-based surveillance program <a href=\"https://www.centreau.ulaval.ca/en/covid/\">CentrEau</a>-COVID. Four of the largest cities in the province (Montr&eacute;al, Laval, Qu&eacute;bec City, and Trois-Rivi&egrave;res), as well as the municipalities of four rural regions (Mauricie, Centre-du-Qu&eacute;bec, Bas-St-Laurent, and Gasp&eacute;sie) participated in the program. The entire dataset includes 31 sampling sites covering approximately half the population of the province of Qu&eacute;bec (population size of 8.5 million). The timeframe covered by the dataset varies for each site. The earliest surveillance program was launched in March 2020, others followed soon after. Samples were collected using various methods, such as 24h composite samples, grab samples, and passive sampling using variations on the Moore swab method (Schang et al., 2020)</p>\n\n<p>Analysis</p>\n\n<p>Prior to the analysis of the samples for SARS-CoV-2, physiochemical parameters such as total suspended solids (TSS), turbidity, conductivity, ammonium concentration, and pH were measured. The samples were subsequently concentred by filtration using a MEC filter (0.45 um), followed by total RNA extraction using the Qiagen AllPrep PowerViral DNA/RNA Kit (Qiagen, USA) with some modifications (beta-mercaptoethanol concentration raised to 10% and lysis performed at 55 &deg;C for 30 minutes) (Ahmed et al., 2020). SARS-CoV-2 viral RNA was detected by a one-step RT-qPCR. To assess the RNA recovery rate of the procedure, samples were spiked before extraction with a known concentration of Bovine Respiratory Syncytial Virus (BRSV) using the Zoetis INFORCE 3 vaccine (Zoetis, USA). In addition to SARS-CoV-2, samples were assessed for Pepper Mild Mottle Virus (PMMoV), the daily load of which is hypothesized to represent the fecal load contributions to the samples at a given site and time. PCR conditions and primer used to collect viral data are described in the files <code>primers.md</code> and <code>PCR conditions.md</code>.</p>\n\n<p>Compilation</p>\n\n<p>The measurements on wastewater samples carried out by the participating laboratories of this study are found in the <code>WWMeasure</code> table. The values provided by municipalities come from laboratories accredited by the Centre d&#39;expertise en analyse environnementale du Qu&eacute;bec (CEAEQ), in compliance with the latter&#39;s quality assurance protocols. The COVID-19-related public health data found in the <code>CPHD</code> table were collected from the Institut National de Sant&eacute; Publique du Qu&eacute;bec (INSPQ)&#39;s public reports. Wastewater data taken in-situ at the sampling sites (e.g., the flow at pumping stations or water resource recovery facilities (WRRFs)) are found in the <code>SiteMeasure</code> table and were taken by the institutions responsible for managing the sites. All of the data, stemming from multiple sources, were combined into the <a href=\"https://github.com/Big-Life-Lab/ODM\">Open Data Model (ODM)</a> standard format using the <a href=\"https://github.com/modelEAU/ODM-Import\">ODM-Import python package</a> (see also Structure).</p>\n\n<p>Validation</p>\n\n<p>Wastewater and sample data were manually assessed for quality by our research collaborators. Data points for which the quality appeared to be uncertain were tagged with the value <code>True</code> in the <code>qualityFlag</code> column. Conversely, data deemed of good quality have a quality flag of <code>False</code>. Data that were not checked have a quality flag of <code>NA</code>. Textual comments describing the issues with the data points in more detail are also included in the dataset using the <code>notes</code> column of the relevant tables. Note that data validation was carried out by the data custodians responsible for each city in the dataset according to available resources. As the project continues and data validation is undertaken on more sections of the dataset, data may be re-analyzed, flagged, or commented as needed. Revisions to the dataset will be reported to the best of our ability.</p>\n\n<p>Structure</p>\n\n<p>The data contained in this dataset has been structured according to the <a href=\"https://github.com/Big-Life-Lab/ODM\">Open Data Model (ODM) for Wastewater-Based Surveillance</a>. This model provides a standardized dictionary to collect and share data and metadata stemming from wastewater-based surveillance programs. By convention, it splits all data into 10+ thematic tables with each record representing a unique measurement, i.e., long format. For convenience, the <code>wide</code> folder presents the data found in all the other tables in a wide format, i.e., multiple measurements are aligned by <code>timestamp</code>, with each column representing a different parameter.</p>\n\n<p>Acknowledgements</p>\n\n<p>The authors would like to acknowledge that this dataset was collected thanks to the financial support of the Fonds de Recherche du Qu&eacute;bec, the Molson Foundation, the Trottier Family Foundation, CentrEau and NSERC. The authors would also like to acknowledge the efforts of Douglas Manuel (Ottawa Hospital) and Howard Swerdfeger (Public Health Agency of Canada) for their original idea for the Open Data Model and continued development.</p>\n\n<p>References</p>\n\n<ol>\n\t<li>\n\t<p>Ahmed, W., Bertsch, P.M., Bivins, A., Bibby, K., Farkas, K., Gathercole, A., Haramoto, E., Gyawali, P., Korajkic, A., McMinn, B.R., Mueller, J.F., Simpson, S.L., Smith, W.J.M., Symonds, E.M., Thomas, K. v., Verhagen, R., Kitajima, M., 2020. Comparison of virus concentration methods for the RT-qPCR-based recovery of murine hepatitis virus, a surrogate for SARS-CoV-2 from untreated wastewater. Science of the Total Environment 739. <a href=\"https://doi.org/10.1016/j.scitotenv.2020.139960\">https://doi.org/10.1016/j.scitotenv.2020.139960</a></p>\n\t</li>\n\t<li>\n\t<p>Bibby, K., Bivins, A., Wu, Z., North, D., 2021. Making waves: Plausible lead time for wastewater based epidemiology as an early warning system for COVID-19. Water Research 202, 117438. <a href=\"https://doi.org/10.1016/j.watres.2021.117438\">https://doi.org/10.1016/j.watres.2021.117438</a></p>\n\t</li>\n\t<li>\n\t<p>Schang, C., Crosbie, N., Nolan, M., Poon, R., Wang, M., Jex, A., Scales, P., Schmidt, J., Thorley, B.R., Henry, R., Kolotelo, P., Langeveld, J., Schilperoort, R., Shi, B., Einsiedel, S., Thomas, M., Black, J., Wilson, S., McCarthy, D.T., 2020. Passive sampling of viruses for wastewater-based epidemiology: a case-study of SARS-CoV-2 [WWW Document]. URL <a href=\"https://www.researchgate.net/publication/347103410\\_Passive\\_sampling\\_of\\_viruses\\_for\\_wastewater-based\\_epidemiology\\_a\\_case-study\\_of\\_SARS-CoV-2?channel=doi&amp;linkId=5fd800f392851c13fe892393&amp;showFulltext=true\">https://www.researchgate.net/publication/347103410\\_Passive\\_sampling\\_of\\_viruses\\_for\\_wastewater-based\\_epidemiology\\_a\\_case-study\\_of\\_SARS-CoV-2?channel=doi&amp;linkId=5fd800f392851c13fe892393&amp;showFulltext=true</a> (accessed 1.18.21).</p>\n\t</li>\n</ol>"
+}

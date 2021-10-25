@@ -22,10 +22,10 @@
 
 ## Affiliations
 
-- <sup>1</sup> model_EAU_, Département de génie civil et de génie des eaux, Université Laval
-- <sup>2</sup> Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University
-- <sup>3</sup> Polytechnique Montréal
-- <sup>4</sup> Ville de Québec
+- <sup>1</sup> model*EAU*, Département de génie civil et de génie des eaux, Université Laval, 1065 av. de la Médecine, Québec, QC G1V 0A6, Canada
+- <sup>2</sup> Microbial Community Engineering Lab (MiCEL), Department of Civil Engineering, McGill University, 817 Sherbrooke St. West, Montreal, QC H3A 0C3, Canada
+- <sup>3</sup> Polytechnique Montréal, Département des génies civil, géologique et des mines, 2900 boul. Édouard-Montpetit, Campus de l'Université de Montréal, 2500 chemin de Polytechnique, Montréal, QC H3T 1J4, Canada
+- <sup>4</sup> Ville de Québec, Station de traitement des eaux usées Est, 555 Rue du Ressac, Québec, QC G1J 5L7, Canada
 
 ## General Remarks
 

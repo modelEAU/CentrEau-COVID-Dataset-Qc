@@ -14,7 +14,7 @@
             "relation": "isNewVersionOf"
         }
     ], 
-    "version": "v1.0", 
+    "version": "v1.04", 
     "upload_type": "dataset", 
     "keywords": [
         "SARS-CoV-2", 

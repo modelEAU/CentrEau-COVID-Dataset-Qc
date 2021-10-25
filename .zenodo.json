@@ -11,7 +11,7 @@
         {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.5590579", 
-            "relation": "isVersionOf"
+            "relation": "isNewVersionOf"
         }
     ], 
     "version": "v1.0", 
